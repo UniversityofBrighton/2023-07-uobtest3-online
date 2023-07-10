@@ -11,7 +11,7 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Lesson Title'
+title: 'Metadata and paradata for multidimensional data'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2023-07-09'
@@ -33,7 +33,7 @@ source: 'https://github.com/karina-rodriguez/2023-07-uobtest3-online'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'info@culturedigitalskills.org'
 
 # Navigation ------------------------------------------------
 #
@@ -58,17 +58,19 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
+- image-processing.Rmd
+- standards.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #

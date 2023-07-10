@@ -1,11 +1,13 @@
 ---
-title: 'Introduction'
+title: 'Image Processing software'
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
-- What are the basics of structuring data for documenting information relevant to images or other media which is specific to the A&H?
+
+- Which image processing software are open source and I can use for this?
+- How do I encode metadata in an image processing software?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
