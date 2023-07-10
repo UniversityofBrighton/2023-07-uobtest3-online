@@ -1,11 +1,12 @@
 ---
-title: 'Introduction'
+title: 'Standards for media'
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
-- What are the basics of structuring data for documenting information relevant to images or other media which is specific to the A&H?
+
+- How do you write a lesson using R Markdown and `{sandpaper}`?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -18,6 +19,7 @@ exercises: 2
 
 ## Introduction
 
+Standards it is
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
 [R Markdown][r-markdown] for dynamic files that can render code into output
@@ -86,7 +88,7 @@ pie(
 ```
 
 <div class="figure" style="text-align: center">
-<img src="fig/introduction-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid"  />
+<img src="fig/standards-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid"  />
 <p class="caption">Sun arise each and every morning</p>
 </div>
 Or you can use pandoc markdown for static figures with the following syntax:

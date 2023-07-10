@@ -1,11 +1,13 @@
 ---
-title: 'Introduction'
+title: 'Image Processing software'
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
-- What are the basics of structuring data for documenting information relevant to images or other media which is specific to the A&H?
+
+- Which image processing software are open source and I can use for this?
+- How do I encode metadata in an image processing software?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -86,7 +88,7 @@ pie(
 ```
 
 <div class="figure" style="text-align: center">
-<img src="fig/introduction-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid"  />
+<img src="fig/image-processing-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid"  />
 <p class="caption">Sun arise each and every morning</p>
 </div>
 Or you can use pandoc markdown for static figures with the following syntax:
